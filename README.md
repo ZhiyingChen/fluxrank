@@ -13,6 +13,10 @@
     1. df_all_digest_kpi_feature.csv ( stores kpi features for each digest)
     2. df_all_digest_feature.csv ( stores basic average features for each digest)
 
+**Environment Deployment**
+
+Install Python Executor (version >= 3.7.0), Anaconda IDE is recommanded
+
 **Run**
 
 To run project:
